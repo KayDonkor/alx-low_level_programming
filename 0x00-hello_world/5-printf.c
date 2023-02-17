@@ -2,7 +2,7 @@
 
 
 /**
- * main - Entry point
+ * main - this prints a program exactly
  *
  * Return: Always 0 (Success)
  */
