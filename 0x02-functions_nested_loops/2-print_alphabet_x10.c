@@ -1,13 +1,13 @@
 #include "main.h"
 
 /*
- * main - prints alphabets
- * print_alphabet_x10 - function prints alphabets ten times 10x
+ *main - prints alphabets
+ *print_alphabet_x10 - function prints alphabets ten times 10x
  *
  * Return: always 0;
  */
 
- void print_alphabet_x10(void)
+void print_alphabet_x10(void)
 {
 	int i;
 	char j;
