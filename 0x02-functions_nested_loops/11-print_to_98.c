@@ -4,7 +4,6 @@
 * print_to_98 - function that prints natural numbers
 * @n: parameter to be checked
 *
-
 * Return: always 0
 */
 
