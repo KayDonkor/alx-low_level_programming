@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * main - alphabets
- *_isalpha- function that checks for alphabets
- *@c: parameter to be checked
- *Return 1 if it is an alphabet
+ *_isalpha - function that checks for alphabets
+ *
+ * @c: parameter to be checked
+ *
+ * Return 1 if it is an alphabet
  * and 0 otherwise
  */
 int _isalpha(int c)
