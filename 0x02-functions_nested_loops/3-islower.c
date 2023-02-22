@@ -2,7 +2,7 @@
 
 /**
  * _islower - function to print lower case
- * @c - parameter to be printed
+ * @c: parameter to be printed
  * Return: 1 if lowercase and 0 otherwise
  */
 
