@@ -2,8 +2,6 @@
 
 /**
  *main - causes an infinite loop
- *
- * @i: value of loop
  *Return 0
  */
 
